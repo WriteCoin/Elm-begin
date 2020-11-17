@@ -67,4 +67,5 @@ type alias Unit =
     , goldConst: Int
     , goldRep: Int
     , foodUsed: Int
-    , role: UnitRole}
+    , role: UnitRole
+    }
